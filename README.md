@@ -23,17 +23,17 @@ This is the official implementation of the paper AutoDrive-P³: Unified Chain of
 
 | Item | Time | State |
 |:----:|:----:|:-----:|
-| 📊 Dataset | 2026.05 | 🟡 Soon |
-| 💻 Code | 2026.05 | 🟡 Soon |
-| 🎯 Checkpoint | 2026.05 | 🟡 Soon |
+| 📊 Dataset | 2026.06 | 🟡 Soon |
+| 💻 Code | 2026.06 | 🟡 Soon |
+| 🎯 Checkpoint | 2026.06 | 🟡 Soon |
 
 ### 📦 NAVSIM Open source schedule
 
 | Item | Time | State |
 |:----:|:----:|:-----:|
-| 🗂️ Dataset | 2026.05 | 🟡 Soon |
-| 📝 Code | 2026.05 | 🟡 Soon |
-| ⚙️ Checkpoint | 2026.05 | 🟡 Soon |
+| 🗂️ Dataset | 2026.06 | 🟡 Soon |
+| 📝 Code | 2026.06 | 🟡 Soon |
+| ⚙️ Checkpoint | 2026.06 | 🟡 Soon |
 
 
 ## 📬 Contact
